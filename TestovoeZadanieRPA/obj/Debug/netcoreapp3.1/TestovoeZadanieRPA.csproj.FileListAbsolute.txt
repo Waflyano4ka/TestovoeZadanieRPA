@@ -1,0 +1,62 @@
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.exe
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.deps.json
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.runtimeconfig.json
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.runtimeconfig.dev.json
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.pdb
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.Form1.resources
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.AssemblyInfo.cs
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.pdb
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.genruntimeconfig.cache
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Влад\source\repos\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.CopyComplete
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.exe
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.deps.json
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.runtimeconfig.json
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.runtimeconfig.dev.json
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\TestovoeZadanieRPA.pdb
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.Form1.resources
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.AssemblyInfo.cs
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.csproj.CopyComplete
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.dll
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.pdb
+C:\Users\Влад\Desktop\TestovoeZadanieRPA GIT\TestovoeZadanieRPA\TestovoeZadanieRPA\obj\Debug\netcoreapp3.1\TestovoeZadanieRPA.genruntimeconfig.cache
